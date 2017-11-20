@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 4eedafad5084240419e649245c7b2093
-timeCreated: 1476470356
-licenseType: Pro
+timeCreated: 1511147703
+licenseType: Free
 TrueTypeFontImporter:
   serializedVersion: 4
   fontSize: 16
@@ -9,6 +9,7 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
+  fontName: Roboto
   fontNames:
   - Roboto
   fallbackFontReferences: []
